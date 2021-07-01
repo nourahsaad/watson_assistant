@@ -1,2 +1,3 @@
 # watson_assistant
-![Chatbot-icon-002](https://user-images.githubusercontent.com/55630716/124158145-3abdb380-daa2-11eb-863c-e2ffd9d01b5c.png)
+<img width="576" alt="ryu" src="https://user-images.githubusercontent.com/55630716/124158666-df3ff580-daa2-11eb-8d08-7b0387144c38.png">
+
